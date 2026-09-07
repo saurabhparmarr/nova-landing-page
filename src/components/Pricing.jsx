@@ -51,7 +51,9 @@ button: "Contact Sales",
 const Pricing = () => {
 const handlePlanClick = (planName) => {
 if (planName === "Enterprise") {
-window.location.href = "mailto:sales@nova.com?subject=NOVA Enterprise Inquiry";
+window.location.assign(
+  "mailto:sales@nova.com?subject=NOVA Enterprise Inquiry",
+);
 return;
 }
 

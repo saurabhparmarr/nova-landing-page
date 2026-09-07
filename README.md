@@ -6,9 +6,7 @@ Built as a Front-End Development Intern assignment using **React, Vite, Tailwind
 
 ## 🚀 Live Demo
 
-**Live URL:** https://nova-landing-page-virid.vercel.app/
-
-> Add the final Vercel/Netlify URL here after deployment.
+**Live URL:** https://nova-landing-page-virid.vercel.app
 
 ## 📌 Project Overview
 
@@ -102,7 +100,7 @@ Make sure you have installed:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/saurabhparmarr/nova-landing-page.git
 ```
 
 Navigate to the project:

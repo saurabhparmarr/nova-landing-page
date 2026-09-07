@@ -6,7 +6,7 @@ Built as a Front-End Development Intern assignment using **React, Vite, Tailwind
 
 ## 🚀 Live Demo
 
-**Live URL:** Not deployed yet
+**Live URL:** https://nova-landing-page-virid.vercel.app/
 
 > Add the final Vercel/Netlify URL here after deployment.
 

@@ -206,24 +206,6 @@ The project was tested for:
 * Internal navigation
 * Horizontal overflow
 
-## 📸 Screenshots
-
-Screenshots will be added after deployment.
-
-Recommended screenshots:
-
-### Desktop
-
-Full landing page view showing the primary sections.
-
-### Mobile
-
-Responsive mobile layout showing the navigation and content adaptation.
-
-### Pricing & FAQ
-
-Pricing plans and FAQ accordion interaction.
-
 ## 📄 Assignment Requirements Covered
 
 | Requirement           | Status |
